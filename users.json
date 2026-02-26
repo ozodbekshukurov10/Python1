@@ -1,0 +1,42 @@
+[
+    {
+        "ism": "ozodbek",
+        "familiya": "shukurov",
+        "yosh": "16",
+        "boy": "1.63",
+        "vazn": "45",
+        "uy_manzili": "segaza"
+    },
+    {
+        "ism": "husanbek",
+        "familiya": "akmalov",
+        "yosh": "20",
+        "boy": "1.77",
+        "vazn": "60",
+        "uy_manzili": "fargona"
+    },
+    {
+        "ism": "hasanbek",
+        "familiya": "akmalov",
+        "yosh": "20",
+        "boy": "1.80",
+        "vazn": "63",
+        "uy_manzili": "fargona"
+    },
+    {
+        "ism": "diyorbek",
+        "familiya": "anvarov",
+        "yosh": "27",
+        "boy": "1.78",
+        "vazn": "59",
+        "uy_manzili": "namangan"
+    },
+    {
+        "ism": "nematjon",
+        "familiya": "ikromov",
+        "yosh": "24",
+        "boy": "1.75",
+        "vazn": "54",
+        "uy_manzili": "namangan"
+    }
+]
