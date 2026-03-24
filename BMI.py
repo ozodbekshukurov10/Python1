@@ -2,6 +2,7 @@
 AI Gateway hujjatlarini o'qing
 Misol: OpenAI yordamida alternativ matn yaratish
 import OpenAI from "openai";
+import yang
 
 export default async (req: Request) => {
   if (req.method !== "POST") {

@@ -1,0 +1,67 @@
+{
+    "bank_name": "MyBank",
+    "customers": [
+        {
+            "name": "Ozodbek",
+            "age": 25,
+            "id": "C001",
+            "account": {
+                "account_id": "A001",   
+                "balance": 0,
+                "transactions": []
+            }
+        }
+    ],
+    "workers": [
+        {
+            "name": "Ali",
+            "age": 30,
+            "id": "W001"
+        }
+    ],
+    "accounts": {
+        "1525252525": {
+            "name": "ozodbek",
+            "age": 16,
+            "id": "12424242525",
+            "password": "2010",
+            "balance": 200000000,
+            "transactions": [
+                {
+                    "type": "deposit",
+                    "amount": 200000000
+                }
+            ]
+        },
+        "2010": {
+            "name": "ozodbek",
+            "age": 16,
+            "id": "1020",
+            "password": "2010",
+            "balance": 200000000,
+            "transactions": [
+                {
+                    "type": "deposit",
+                    "amount": 200000000
+                }
+            ]
+        },
+        "5": {
+            "name": "fd",
+            "age": 12,
+            "id": "5",
+            "password": "d",
+            "balance": 2,
+            "transactions": [
+                {
+                    "type": "deposit",
+                    "amount": 4
+                },
+                {
+                    "type": "withdraw",
+                    "amount": 2
+                }
+            ]
+        }
+    }
+}
