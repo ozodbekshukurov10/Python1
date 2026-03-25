@@ -4,6 +4,7 @@ def ishchilar():
     print('Abduraxmon')
     print('Abdullo')
     print('Abubakir')
+    print('Ismoil')
 
 def kurslar():
     print('web dasturlash')
@@ -33,18 +34,27 @@ if a == '1':
         print('3-grafik duzayn')
         print('4-office pro')
         print('5-kiberxavsizlik')
-    elif b == 'ismoil':
+    elif b == 'Ismoil':
         print('siz bugeltersiz')
         sorash = input('qaysi kursdi tanlaysiz: ')
         if sorash == '1':
             print('web dasturlash oquvchilar')
             sorash2 = input('qaysi guruppa: ')
             print('1-9 guruuppalar')
+            sorsash3 = input('qaysi biri: ')
             if sorash2 == '1':
+                print('web dasurlarsh')
+                print()
                 print('abdulloh')
                 print('lola')
                 print('iskandar')
             elif sorash2 == '2':
+                print('web dasurlarsh-2')
+                print()
                 print("mohigul")
                 print("samandar")
+            elif sorash2 == '2':
+                print()
+                print('asror')
+                print('ahror')
             
